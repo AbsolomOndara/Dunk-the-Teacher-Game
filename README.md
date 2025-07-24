@@ -31,8 +31,7 @@ This Python game challenges players to guess the coordinates where their teacher
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dunk-the-teacher.git
-   cd dunk-the-teacher
+
 Install the required dependency:
 
 bash
